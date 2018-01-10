@@ -1,0 +1,8 @@
+
+
+
+To edit
+cat /dev/null > testerAllLogs.js && vi testerAllLogs.js
+
+To Run
+node testerAllLogs.js
